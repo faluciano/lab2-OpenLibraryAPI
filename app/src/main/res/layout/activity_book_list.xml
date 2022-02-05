@@ -21,6 +21,6 @@
         android:background="@android:color/holo_orange_dark"
         android:minHeight="?attr/actionBarSize"
         app:title="BookSearch"
-        app:titleTextColor="#000000" />
+        app:titleTextColor="#000000"/>
 
 </RelativeLayout>
